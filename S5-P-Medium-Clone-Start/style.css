@@ -110,6 +110,11 @@ header div:last-of-type {
   border-bottom: solid 2px #c1c1c1;
 }
 
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
 .trending-wrapper {
   flex-direction: column;
   background-color: rgb(255, 255, 255);
@@ -260,4 +265,8 @@ h3 {
 .big-img {
   object-fit: cover;
   width: 100%;
+}
+
+.trending-title img {
+  margin-top: 5px;
 }
